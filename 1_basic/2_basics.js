@@ -2,6 +2,7 @@
 /*
 * Types
 * */
+Object.defineProperty(exports, "__esModule", { value: true });
 let helloText = 'Hello';
 console.log(helloText);
 /*
